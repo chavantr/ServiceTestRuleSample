@@ -19,7 +19,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 /**
- * Created by Admin on 8/26/2016.
+ * Created by Tatyabhau Chavan on 8/26/2016.
  */
 @MediumTest
 @RunWith(AndroidJUnit4.class)
